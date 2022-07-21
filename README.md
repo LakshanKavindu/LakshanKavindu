@@ -159,7 +159,13 @@
  
 
 <br><br>
+<div align="center">
+  <p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lakshankavindu&show_icons=true&locale=en&layout=compact" alt="lakshankavindu" />
+  </p>
+</div>
 
+<br>
 
 <div align="center">
   <p>&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=lakshankavindu&show_icons=true&locale=en" alt="lakshankavindu" />
@@ -174,11 +180,5 @@
 
 </div>
 
-<br>
 
-<div align="center">
-  <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lakshankavindu&show_icons=true&locale=en&layout=compact" alt="lakshankavindu" />
-  </p>
-</div>
 
