@@ -162,17 +162,19 @@
 
 
 <div align="center">
-  <p>&nbsp; <img align="left" src="https://github-readme-stats.vercel.app/api?username=lakshankavindu&show_icons=true&locale=en" alt="lakshankavindu" />
+  <p>&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=lakshankavindu&show_icons=true&locale=en" alt="lakshankavindu" />
 </p>
 </div>
-
+<br>
 
 <div align="center">
   <p>
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=lakshankavindu&" alt="lakshankavindu" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lakshankavindu&" alt="lakshankavindu" />
 </p>
 
 </div>
+
+<br>
 
 <div align="center">
   <p>
