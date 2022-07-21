@@ -11,7 +11,9 @@
   <a href="https://twitter.com/" target="blank">
     <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" />
   </a>
-</p> - 🌱 I’m currently learning **MERN Technology** - 💬 Ask me about **HTML,CSS,PYTHON,JAVASCRIPT** - 📫 How to reach me **lakshankavindu2k21@gmail.com** <p align="left">
+</p> - 🌱 I’m currently learning **MERN Technology** - 💬 Ask me about **HTML,CSS,PYTHON,JAVASCRIPT** - 📫 How to reach me **lakshankavindu2k21@gmail.com** 
+<br><br><br>
+<p align="left">
   <a href="https://linkedin.com/in/kavindu lakshan" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kavindu lakshan" height="30" width="40" />
   </a>
@@ -19,6 +21,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kavindu lakshan" height="30" width="40" />
   </a>
 </p>
+<br><br><br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
