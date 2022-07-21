@@ -1,4 +1,4 @@
-<img align="center" width="400" alt="coding..." src="![image](https://user-images.githubusercontent.com/104860051/180133962-06562811-c23a-42eb-9f46-6c27a78448bf.png)
+<img align="center" width="400" alt="coding..." src="https://user-images.githubusercontent.com/104860051/180133962-06562811-c23a-42eb-9f46-6c27a78448bf.png
 ">
 <h1 align="center">Hi 👋, I'm Kavindu Lakshan</h1>
 <h3 align="center">A passionate frontend developer and backend developer from Sri Lanka</h3>
