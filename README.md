@@ -175,10 +175,12 @@
 
 <div align="center">
   <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lakshankavindu&" alt="lakshankavindu" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=LakshanKavindu&theme=merko" alt="lakshankavindu" />
 </p>
 
 </div>
+
+
 
 
 
