@@ -13,7 +13,7 @@
   <a href="https://twitter.com/" target="blank">
     <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" />
   </a>
-</p> - 🌱 I’m currently learning **MERN Technology** - 💬 Ask me about **HTML,CSS,PYTHON,JAVASCRIPT** - 📫 How to reach me **lakshankavindu2k21@gmail.com** 
+</p> - 🌱 I’m currently learning **Django** - 💬 Ask me about **HTML,CSS,PYTHON,JAVASCRIPT** - 📫 How to reach me **lakshankavindu2k21@gmail.com** 
 <br><br><br>
 <p align="left">
   <a href="https://linkedin.com/in/kavindu lakshan" target="blank">
@@ -36,7 +36,7 @@
             <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" />
           </a>
           <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
-            <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40" />
+            <img src="https://th.bing.com/th/id/R.0c1aa4a02a8705491f55f50b6520097d?rik=0f8P3h6FXqvaAg&pid=ImgRaw&r=0" alt="xd" width="40" height="40" />
           </a>
       </p>
     </th>
