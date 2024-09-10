@@ -5,7 +5,7 @@
 <h3 align="center">A passionate <b>Fullstack developer</b> from Sri Lanka</h3>
 
 <br><br>
-<img align="right" width="400" alt="coding..." src="https://th.bing.com/th/id/R.81178b47a8598f0c81c4799f2cdd4057?rik=fTCvvENjVmdVrg&pid=ImgRaw&r=0">
+<img align="right" width="400" alt="coding..." src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=lakshankavindu&label=Profile%20views&color=0e75b6&style=flat" alt="lakshankavindu" />
 </p>
