@@ -16,7 +16,7 @@
 </p> - 🌱 I’m currently learning **Django** - 💬 Ask me about **HTML,CSS,PYTHON,JAVASCRIPT** - 📫 How to reach me **lakshankavindu2k21@gmail.com** 
 <br><br><br>
 <p align="left">
-  <a href="https://linkedin.com/in/kavindu lakshan" target="blank">
+  <a href="https://www.linkedin.com/in/kavindu-lakshan-51b087239/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kavindu lakshan" height="30" width="40" />
   </a>
   <a href="https://fb.com/kavindu lakshan" target="blank">
